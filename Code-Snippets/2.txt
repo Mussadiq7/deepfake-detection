@@ -1,0 +1,7 @@
+DEVICE = 'cuda:0' if torch.cuda.is_available() else 'cpu'
+
+mtcnn = MTCNN(
+    select_largest=False,
+    post_process=False,
+    device=DEVICE
+).to(DEVICE).eval()

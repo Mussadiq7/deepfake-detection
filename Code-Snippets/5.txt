@@ -1,0 +1,10 @@
+interface = gr.Interface(
+    fn=predict,
+    inputs=[
+        gr.inputs.Image(label="Input Image", type="pil")
+    ],
+    outputs=[
+        gr.outputs.Label(label="Class"),
+        gr.outputs.Image(label="Face with Explainability", type="pil")
+    ],
+).launch()
