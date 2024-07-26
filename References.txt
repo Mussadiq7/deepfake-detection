@@ -1,0 +1,4 @@
+https://github.com/timesler/facenet-pytorch
+ENHANCING-DEEPFAKE-DETECTION-LEVERAGING-MTCNN-AND-INCEPTION-RESNET-V1[1].pdf
+Chat GPT
+Gemini
