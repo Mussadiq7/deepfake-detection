@@ -1,3 +1,3 @@
-# deepfake-detection
- This project was created for the event "Innovatia Panoply 2024" 
+# Deepfake-Detection
+This project was created for the event "Innovatia Panoply 2024" 
  
